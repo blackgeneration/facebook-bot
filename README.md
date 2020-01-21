@@ -36,3 +36,5 @@ Coming Soon
 
 ### Donate
 Coming Soon
+
+### Contacts
