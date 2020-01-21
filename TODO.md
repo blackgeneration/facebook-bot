@@ -2,7 +2,7 @@
 #### Date - Version(contributor)
 
 #### Changes done successfully
-- [] Cats
+- [ ] Cats
 
 #### Changes not done
 - Dogs
