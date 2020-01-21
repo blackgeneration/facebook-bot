@@ -7,4 +7,20 @@ A facebook auto answer bot with machine learning capability
 
 ### How to Run
 
-##### Train Mode
+#### Command Line
+##### 0. Setup
+
+
+
+
+##### 1. Passive Mode
+
+This mode allow you to train your bot passively as you speak with your friends on facebook.
+```
+python fb0t.py -passive
+```
+##### 2. Engage
+
+#### Graphical User Interface
+
+Coming soon!
