@@ -4,3 +4,7 @@ A facebook auto answer bot with machine learning capability
 ### Requirements
 - fbchat
 - chatterbot
+
+### How to Run
+
+##### Train Mode
